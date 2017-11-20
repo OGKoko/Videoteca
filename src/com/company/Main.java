@@ -64,7 +64,7 @@ public class Main {
                         break;
                 }
             }catch (NumberFormatException e){
-                System.out.println("introduce un NUMERO >:(");
+                System.out.println("introduce un NUMERO >:( ");
             }
         }while (!salir);
     }
